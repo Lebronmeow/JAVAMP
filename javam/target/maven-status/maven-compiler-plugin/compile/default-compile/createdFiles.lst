@@ -1,0 +1,12 @@
+com\carbonfootprint\CarbonFootprintApp$MainApp$FuelUsage.class
+com\carbonfootprint\CarbonFootprintApp$UserDAO.class
+com\carbonfootprint\CarbonFootprintApp$RegisterScreen.class
+com\carbonfootprint\CarbonFootprintApp$MainApp$CarbonGoal.class
+com\carbonfootprint\CarbonFootprintApp$MainApp$ActivityLog.class
+com\carbonfootprint\CarbonFootprintApp$TransportModeDAO$TransportMode.class
+com\carbonfootprint\CarbonFootprintApp$MainApp.class
+com\carbonfootprint\CarbonFootprintApp$MainApp$Trip.class
+com\carbonfootprint\CarbonFootprintApp$LoginScreen.class
+com\carbonfootprint\CarbonFootprintApp$TransportModeDAO.class
+com\carbonfootprint\CarbonFootprintApp.class
+com\carbonfootprint\CarbonFootprintApp$DatabaseHelper.class
